@@ -1,0 +1,324 @@
+[
+{
+    "model": "foodapp.item",
+    "pk": 1,
+    "fields": {
+        "user_name": 1,
+        "item_name": "Pizza",
+        "item_desc": "NEEEW",
+        "item_price": "10.00",
+        "item_image": "https://static.vecteezy.com/system/resources/previews/057/769/953/non_2x/a-cute-cartoon-illustration-of-a-smiling-golden-food-item-png.png",
+        "is_available": true,
+        "created_at": "2026-06-06T10:13:22.627Z",
+        "updated_at": "2026-06-06T10:13:22.660Z"
+    }
+},
+{
+    "model": "foodapp.item",
+    "pk": 2,
+    "fields": {
+        "user_name": 1,
+        "item_name": "Burger",
+        "item_desc": "Super Burger",
+        "item_price": "20.00",
+        "item_image": "https://static.vecteezy.com/system/resources/previews/057/769/953/non_2x/a-cute-cartoon-illustration-of-a-smiling-golden-food-item-png.png",
+        "is_available": true,
+        "created_at": "2026-06-06T10:13:22.627Z",
+        "updated_at": "2026-06-06T10:13:22.660Z"
+    }
+},
+{
+    "model": "foodapp.item",
+    "pk": 3,
+    "fields": {
+        "user_name": 1,
+        "item_name": "Buritas",
+        "item_desc": "Fluffy Buritas",
+        "item_price": "18.00",
+        "item_image": "https://static.vecteezy.com/system/resources/previews/057/769/953/non_2x/a-cute-cartoon-illustration-of-a-smiling-golden-food-item-png.png",
+        "is_available": true,
+        "created_at": "2026-06-06T10:14:43.368Z",
+        "updated_at": "2026-06-06T10:14:43.368Z"
+    }
+},
+{
+    "model": "foodapp.item",
+    "pk": 4,
+    "fields": {
+        "user_name": 1,
+        "item_name": "Margherita Pizza",
+        "item_desc": "Classic Italian pizza with mozzarella and tomato",
+        "item_price": "8.99",
+        "item_image": "https://static.vecteezy.com/system/resources/previews/057/769/953/non_2x/a-cute-cartoon-illustration-of-a-smiling-golden-food-item-png.png",
+        "is_available": true,
+        "created_at": "2026-06-06T10:18:34.380Z",
+        "updated_at": "2026-06-06T10:18:34.380Z"
+    }
+},
+{
+    "model": "foodapp.item",
+    "pk": 5,
+    "fields": {
+        "user_name": 1,
+        "item_name": "Cheeseburger",
+        "item_desc": "Beef patty with cheese, lettuce and tomato",
+        "item_price": "6.49",
+        "item_image": "https://static.vecteezy.com/system/resources/previews/057/769/953/non_2x/a-cute-cartoon-illustration-of-a-smiling-golden-food-item-png.png",
+        "is_available": true,
+        "created_at": "2026-06-06T10:18:34.385Z",
+        "updated_at": "2026-06-06T10:18:34.385Z"
+    }
+},
+{
+    "model": "foodapp.item",
+    "pk": 6,
+    "fields": {
+        "user_name": 1,
+        "item_name": "Caesar Salad",
+        "item_desc": "Crisp romaine with parmesan and croutons",
+        "item_price": "5.99",
+        "item_image": "https://static.vecteezy.com/system/resources/previews/057/769/953/non_2x/a-cute-cartoon-illustration-of-a-smiling-golden-food-item-png.png",
+        "is_available": true,
+        "created_at": "2026-06-06T10:18:34.387Z",
+        "updated_at": "2026-06-06T10:18:34.387Z"
+    }
+},
+{
+    "model": "foodapp.item",
+    "pk": 7,
+    "fields": {
+        "user_name": 1,
+        "item_name": "Chicken Tacos",
+        "item_desc": "Soft tortillas with grilled chicken and salsa",
+        "item_price": "7.29",
+        "item_image": "https://static.vecteezy.com/system/resources/previews/057/769/953/non_2x/a-cute-cartoon-illustration-of-a-smiling-golden-food-item-png.png",
+        "is_available": true,
+        "created_at": "2026-06-06T10:18:34.388Z",
+        "updated_at": "2026-06-06T10:18:34.388Z"
+    }
+},
+{
+    "model": "foodapp.item",
+    "pk": 8,
+    "fields": {
+        "user_name": 1,
+        "item_name": "Sushi Platter",
+        "item_desc": "Assorted rolls with tuna, salmon and avocado",
+        "item_price": "12.99",
+        "item_image": "https://static.vecteezy.com/system/resources/previews/057/769/953/non_2x/a-cute-cartoon-illustration-of-a-smiling-golden-food-item-png.png",
+        "is_available": true,
+        "created_at": "2026-06-06T10:18:34.389Z",
+        "updated_at": "2026-06-06T10:18:34.389Z"
+    }
+},
+{
+    "model": "foodapp.item",
+    "pk": 9,
+    "fields": {
+        "user_name": 1,
+        "item_name": "Pasta Alfredo",
+        "item_desc": "Creamy white sauce pasta with mushrooms",
+        "item_price": "9.49",
+        "item_image": "https://static.vecteezy.com/system/resources/previews/057/769/953/non_2x/a-cute-cartoon-illustration-of-a-smiling-golden-food-item-png.png",
+        "is_available": true,
+        "created_at": "2026-06-06T10:18:34.390Z",
+        "updated_at": "2026-06-06T10:18:34.390Z"
+    }
+},
+{
+    "model": "foodapp.item",
+    "pk": 10,
+    "fields": {
+        "user_name": 1,
+        "item_name": "Falafel Wrap",
+        "item_desc": "Middle Eastern wrap with chickpea patties",
+        "item_price": "6.99",
+        "item_image": "https://static.vecteezy.com/system/resources/previews/057/769/953/non_2x/a-cute-cartoon-illustration-of-a-smiling-golden-food-item-png.png",
+        "is_available": true,
+        "created_at": "2026-06-06T10:18:34.392Z",
+        "updated_at": "2026-06-06T10:18:34.392Z"
+    }
+},
+{
+    "model": "foodapp.item",
+    "pk": 11,
+    "fields": {
+        "user_name": 1,
+        "item_name": "Pad Thai",
+        "item_desc": "Thai stir-fried noodles with peanuts and veggies",
+        "item_price": "10.49",
+        "item_image": "https://static.vecteezy.com/system/resources/previews/057/769/953/non_2x/a-cute-cartoon-illustration-of-a-smiling-golden-food-item-png.png",
+        "is_available": true,
+        "created_at": "2026-06-06T10:18:34.393Z",
+        "updated_at": "2026-06-06T10:18:34.393Z"
+    }
+},
+{
+    "model": "foodapp.item",
+    "pk": 12,
+    "fields": {
+        "user_name": 1,
+        "item_name": "French Fries",
+        "item_desc": "Crispy golden potato fries with salt",
+        "item_price": "3.49",
+        "item_image": "https://static.vecteezy.com/system/resources/previews/057/769/953/non_2x/a-cute-cartoon-illustration-of-a-smiling-golden-food-item-png.png",
+        "is_available": true,
+        "created_at": "2026-06-06T10:18:34.395Z",
+        "updated_at": "2026-06-06T10:18:34.395Z"
+    }
+},
+{
+    "model": "foodapp.item",
+    "pk": 13,
+    "fields": {
+        "user_name": 1,
+        "item_name": "Veggie Burger",
+        "item_desc": "Plant-based patty with lettuce and tomato",
+        "item_price": "6.29",
+        "item_image": "https://static.vecteezy.com/system/resources/previews/057/769/953/non_2x/a-cute-cartoon-illustration-of-a-smiling-golden-food-item-png.png",
+        "is_available": true,
+        "created_at": "2026-06-06T10:18:34.397Z",
+        "updated_at": "2026-06-06T10:18:34.397Z"
+    }
+},
+{
+    "model": "foodapp.item",
+    "pk": 14,
+    "fields": {
+        "user_name": 1,
+        "item_name": "Butter Chicken",
+        "item_desc": "Indian-style chicken in creamy tomato sauce",
+        "item_price": "11.49",
+        "item_image": "https://static.vecteezy.com/system/resources/previews/057/769/953/non_2x/a-cute-cartoon-illustration-of-a-smiling-golden-food-item-png.png",
+        "is_available": true,
+        "created_at": "2026-06-06T10:18:34.398Z",
+        "updated_at": "2026-06-06T10:18:34.398Z"
+    }
+},
+{
+    "model": "foodapp.item",
+    "pk": 15,
+    "fields": {
+        "user_name": 1,
+        "item_name": "Ramen Bowl",
+        "item_desc": "Japanese noodle soup with egg and pork",
+        "item_price": "10.99",
+        "item_image": "https://static.vecteezy.com/system/resources/previews/057/769/953/non_2x/a-cute-cartoon-illustration-of-a-smiling-golden-food-item-png.png",
+        "is_available": true,
+        "created_at": "2026-06-06T10:18:34.400Z",
+        "updated_at": "2026-06-06T10:18:34.400Z"
+    }
+},
+{
+    "model": "foodapp.item",
+    "pk": 16,
+    "fields": {
+        "user_name": 1,
+        "item_name": "Greek Salad",
+        "item_desc": "Feta cheese, olives, cucumber and tomatoes",
+        "item_price": "7.99",
+        "item_image": "https://static.vecteezy.com/system/resources/previews/057/769/953/non_2x/a-cute-cartoon-illustration-of-a-smiling-golden-food-item-png.png",
+        "is_available": true,
+        "created_at": "2026-06-06T10:18:34.401Z",
+        "updated_at": "2026-06-06T10:18:34.401Z"
+    }
+},
+{
+    "model": "foodapp.item",
+    "pk": 17,
+    "fields": {
+        "user_name": 1,
+        "item_name": "BBQ Ribs",
+        "item_desc": "Slow cooked pork ribs with barbecue sauce",
+        "item_price": "14.99",
+        "item_image": "https://static.vecteezy.com/system/resources/previews/057/769/953/non_2x/a-cute-cartoon-illustration-of-a-smiling-golden-food-item-png.png",
+        "is_available": true,
+        "created_at": "2026-06-06T10:18:34.402Z",
+        "updated_at": "2026-06-06T10:18:34.402Z"
+    }
+},
+{
+    "model": "foodapp.item",
+    "pk": 18,
+    "fields": {
+        "user_name": 1,
+        "item_name": "Shawarma",
+        "item_desc": "Grilled meat wrap with garlic sauce",
+        "item_price": "8.49",
+        "item_image": "https://static.vecteezy.com/system/resources/previews/057/769/953/non_2x/a-cute-cartoon-illustration-of-a-smiling-golden-food-item-png.png",
+        "is_available": true,
+        "created_at": "2026-06-06T10:18:34.404Z",
+        "updated_at": "2026-06-06T10:18:34.404Z"
+    }
+},
+{
+    "model": "foodapp.item",
+    "pk": 19,
+    "fields": {
+        "user_name": 1,
+        "item_name": "Pancakes",
+        "item_desc": "Stack of fluffy pancakes with maple syrup",
+        "item_price": "5.79",
+        "item_image": "https://static.vecteezy.com/system/resources/previews/057/769/953/non_2x/a-cute-cartoon-illustration-of-a-smiling-golden-food-item-png.png",
+        "is_available": true,
+        "created_at": "2026-06-06T10:18:34.405Z",
+        "updated_at": "2026-06-06T10:18:34.405Z"
+    }
+},
+{
+    "model": "foodapp.item",
+    "pk": 20,
+    "fields": {
+        "user_name": 1,
+        "item_name": "Mutton Biryani",
+        "item_desc": "Fragrant rice with spiced mutton",
+        "item_price": "12.29",
+        "item_image": "https://static.vecteezy.com/system/resources/previews/057/769/953/non_2x/a-cute-cartoon-illustration-of-a-smiling-golden-food-item-png.png",
+        "is_available": true,
+        "created_at": "2026-06-06T10:18:34.406Z",
+        "updated_at": "2026-06-06T10:18:34.406Z"
+    }
+},
+{
+    "model": "foodapp.item",
+    "pk": 21,
+    "fields": {
+        "user_name": 1,
+        "item_name": "Spring Rolls",
+        "item_desc": "Crispy rolls stuffed with vegetables",
+        "item_price": "4.99",
+        "item_image": "https://static.vecteezy.com/system/resources/previews/057/769/953/non_2x/a-cute-cartoon-illustration-of-a-smiling-golden-food-item-png.png",
+        "is_available": true,
+        "created_at": "2026-06-06T10:18:34.407Z",
+        "updated_at": "2026-06-06T10:18:34.407Z"
+    }
+},
+{
+    "model": "foodapp.item",
+    "pk": 22,
+    "fields": {
+        "user_name": 1,
+        "item_name": "Fish and Chips",
+        "item_desc": "British-style fried fish with fries",
+        "item_price": "9.99",
+        "item_image": "https://static.vecteezy.com/system/resources/previews/057/769/953/non_2x/a-cute-cartoon-illustration-of-a-smiling-golden-food-item-png.png",
+        "is_available": true,
+        "created_at": "2026-06-06T10:18:34.408Z",
+        "updated_at": "2026-06-06T10:18:34.408Z"
+    }
+},
+{
+    "model": "foodapp.item",
+    "pk": 23,
+    "fields": {
+        "user_name": 1,
+        "item_name": "Ice Cream Sundae",
+        "item_desc": "Vanilla ice cream topped with chocolate sauce",
+        "item_price": "4.59",
+        "item_image": "https://static.vecteezy.com/system/resources/previews/057/769/953/non_2x/a-cute-cartoon-illustration-of-a-smiling-golden-food-item-png.png",
+        "is_available": true,
+        "created_at": "2026-06-06T10:18:34.409Z",
+        "updated_at": "2026-06-06T10:18:34.409Z"
+    }
+}
+]
