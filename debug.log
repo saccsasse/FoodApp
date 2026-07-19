@@ -772,3 +772,8 @@ Not Found: /foodapp/api/schema
 Not Found: /foodapp/api/schema/swagger-ui
 Not Found: /.well-known/appspecific/com.chrome.devtools.json
 Not Found: /d87bcbdbea8f8f5aa26f.worker.js.map
+Watching for file changes with StatReloader
+Not Found: /cart/cart-overview
+Not Found: /favicon.ico
+Not Found: /
+Not Found: /
