@@ -136,23 +136,35 @@ Interactive documentation:
 # Installation
 
 git clone https://github.com/yourusername/FoodApp.git
+
 cd FoodApp
 
 venv\Scripts\activate
+
 pip install -r requirements.txt
 
 create .env file and paste it:
+
 SECRET_KEY=your_secret_key
+
 DEBUG=True
+
 DATABASE_NAME=foodapp
+
 DATABASE_USER=postgres
+
 DATABASE_PASSWORD=password
+
 DATABASE_HOST=localhost
+
 DATABASE_PORT=5432
 
 python manage.py makemigrations
+
 python manage.py migrate
+
 python manage.py createsuperuser
+
 python manage.py runserver
 
 API available at: http://127.0.0.1:8000/
