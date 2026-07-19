@@ -1,13 +1,13 @@
-## FoodApp API
+# FoodApp API
 
 A production-style RESTful backend built with Django REST Framework.
 The project demonstrates secure authentication, REST architecture,
 database design, automatic API documentation, filtering,
 pagination, search, and CRUD operations.
 
-## Features
+# Features
 
-# Authentication
+## Authentication
 
 - JWT-based authentication
 - Access and refresh token workflow
@@ -23,7 +23,7 @@ Implemented endpoints:
 
 ---
 
-# Food Item Management
+## Food Item Management
 
 Users can manage food items through a complete CRUD API.
 
@@ -52,7 +52,7 @@ Endpoints:
 
 ---
 
-# Order Management
+## Order Management
 
 The order system allows users to manage customer orders.
 
@@ -81,7 +81,7 @@ Endpoints:
 
 
 
-## Architecture
+# Architecture
 
                     Client
                        │
@@ -102,7 +102,7 @@ Endpoints:
 
 
 
-## API Documentation
+# API Documentation
 
 The project uses:
 - OpenAPI 3.0
@@ -116,7 +116,7 @@ Interactive documentation:
 /api/redoc/
 
 
-## Tech Stack
+# Tech Stack
 - Python
 - Django 6.0
 - Django REST Framework
@@ -133,7 +133,7 @@ Interactive documentation:
 
 
 
-## Installation
+# Installation
 
 git clone https://github.com/yourusername/FoodApp.git
 cd FoodApp
